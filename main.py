@@ -9,3 +9,6 @@ print("world")
 # Which version of code will produce an Indentation Error when it is run?NOTE: The • symbol represents a single space.
 # Which version of code will output "This will run"?
 # In which version of code, will you see "This will run" printed?
+
+# while something is True
+#   do something repeatedly
